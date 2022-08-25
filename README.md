@@ -1,2 +1,1 @@
 # My-CV
-HTML CV TEMPLATE
